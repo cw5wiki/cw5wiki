@@ -2,7 +2,10 @@ site_name: CW5 Wiki
 site_url: https://cw5wiki.github.io/cw5wiki/
 
 theme:
-  name: material
+  name: material  
+  logo: imgs/icon.png
+  favicon: imgs/favicon.ico 
+
 
 nav:
   - Home: index.md
