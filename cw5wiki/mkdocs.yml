@@ -6,6 +6,8 @@ theme:
 
 nav:
   - Home: index.md
+  - Items: items.md
+  - Gear: gear.md
 
 # Repository URL for contribution link
 repo_url: https://github.com/cw5wiki/cw5wiki
