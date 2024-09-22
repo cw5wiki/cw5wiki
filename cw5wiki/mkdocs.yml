@@ -1,0 +1,12 @@
+site_name: CW5 Wiki
+site_url: https://cw5wiki.github.io/cw5wiki/
+
+theme:
+  name: material
+
+nav:
+  - Home: index.md
+
+# Repository URL for contribution link
+repo_url: https://github.com/cw5wiki/cw5wiki
+repo_name: GitHub
